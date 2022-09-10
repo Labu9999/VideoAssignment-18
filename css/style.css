@@ -110,10 +110,7 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
     left: 0;
     transition: .2s;
 }
-.praimary-menu ul li ul li:hover{
-    background-color: burlywood;
-    width: 100%;
-}
+
 .praimary-menu ul li ul li:hover a{
     color: black;
 
